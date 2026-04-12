@@ -6,5 +6,4 @@ theme:
     primary: deep purple
     accent: cyan
   features:
-    - navigation.tabs
     - search.highlight
