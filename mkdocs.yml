@@ -1,3 +1,10 @@
 site_name: Alive Internet Theory
 theme:
   name: material
+  palette:
+    scheme: slate        # dark mode
+    primary: deep purple
+    accent: cyan
+  features:
+    - navigation.tabs
+    - search.highlight
