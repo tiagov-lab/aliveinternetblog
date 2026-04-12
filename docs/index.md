@@ -1,1 +1,1 @@
-
+According to dead internet theory, most of the internet is fake, made by bots, AI or state actors. Alive internet theory is an ironically used as a response to finding the small the glimmers of humanity that remain.
