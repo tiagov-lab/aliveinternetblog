@@ -9,6 +9,6 @@
                                    t h e o r y
 ```
 
-According to dead internet theory, most of the internet is fake, made by bots, AI or state actors.
+The negation of the dead internet theory; a belief that the Internet continues to be a place where genuine human interaction is readily available.[^1]
 
-Alive Internet Theory is meant to be the opposite, a glimmer of humanity in a sea of slop.
+[^1]: "alive internet theory," *Wiktionary*, Wikimedia Foundation, <https://en.wiktionary.org/wiki/alive_internet_theory>
