@@ -7,3 +7,5 @@ theme:
     accent: cyan
   features:
     - search.highlight
+markdown_extensions:
+  - footnotes
